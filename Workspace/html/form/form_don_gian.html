@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form đơn giản</title>
+</head>
+<body>
+<!--<h1>Đăng nhập</h1>-->
+<!--    <form action="">-->
+<!--        <div class="form-group">-->
+<!--            <label for="username">Tên đăng nhập</label><br>-->
+<!--            <input type="text" id="username" name="username">-->
+<!--        </div>-->
+<!--        <div class="form-group">-->
+<!--            <label for="password">Mật khẩu</label><br>-->
+<!--            <input type="password" id="password" name="username">-->
+<!--            <br><br>-->
+<!--        </div>-->
+
+<!--        <label for="name">Firstname</label><br>-->
+<!--        <input type="text"  value="Phạm Công" id="name"><br>-->
+<!--        Last name:<br>-->
+<!--        <input type="text" name="lastname" value="Huy"><br><br>-->
+<!--        <input type="submit" value="Submit" >-->
+<!--    </form>-->
+
+<h1>Sự kiện onchange</h1>
+
+<p>Chọn tên xe từ danh sách dưới đây.</p>
+
+<select id="mySelect" onchange="myFunction()">
+    <option value="Audi">Audi
+    <option value="BMW">BMW
+    <option value="Mercedes">Mercedes
+    <option value="Volvo">Volvo
+</select>
+
+<p>Khi bạn chuyển sang một xe mới, một hàm sẽ được kích hoạt để hiển thị giá trị ra ngoài.</p>
+
+<p id="demo"></p>
+
+<script>
+    function myFunction() {
+        var x = document.getElementById("mySelect").value;
+        document.getElementById("demo").innerHTML = "Bạn đã chọn xe: " + x;
+    }
+
+
+</script>
+</body>
+</html>

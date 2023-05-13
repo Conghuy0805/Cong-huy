@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 1</title>
+</head>
+<body>
+<script>
+    let str = "tRuong   TaN   HAI ";
+    let upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    let lower = 'abcdefghijklmnopqrstuvwxyz';
+    let result = [str[0].toUpperCase()]
+
+    function change() {
+        for (let i = 0; i < str.length; i++) {
+            if (str[i] === " ") {
+                if (lower.indexOf(str[i + 1]) !== -1) {
+                    result.push(str[i], str[i + 1].toUpperCase())
+                } else if (upper.indexOf(str[i + 1]) !== -1) {
+                    result.push(str[i], str[i + 1]);
+                }
+            } else {
+                if (upper.indexOf(str[i + 1]) !== -1) {
+                    result.push(str[i + 1].toLowerCase())
+                } else {
+                    result.push(str[i + 1]);
+                }
+            }
+        }
+        return result.join("")
+    }
+
+    console.log(change())
+
+</script>
+</body>
+</html>

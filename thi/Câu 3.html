@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CÂU 3</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td>Mã sổ</td>
+        <td>Loại tiết kiệm</td>
+        <td>Họ tên khách hàng</td>
+        <td>Chứng minh nhân dân</td>
+        <td>Ngày mở sổ</td>
+        <td>Số tiền gửi</td>
+        <td>Add</td>
+        <td>Delete</td>
+    </tr>
+
+    <tbody id="show">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+        <button type="button" onclick="Add()">ADD</button>
+    </td>
+    <td>
+        <button type="button" onclick="Delete()">DELETE</button>
+    </td>
+    </tbody>
+</table>
+<script>
+    class sotietkiem {
+        constructor(id, loaitk, hotenkh, cmnd, ngayms, sotiengui) {
+            this.id = id;
+            this.loaitk = loaitk;
+            this.hotenkh = hotenkh;
+            this.cmnd = cmnd;
+            this.ngayms = ngayms;
+            this.sotiengui = sotiengui;
+        }
+
+        getId() {
+            return this.id;
+        }
+
+        getLoaitk() {
+            return this.loaitk;
+        }
+
+        getHotenkh() {
+            return this.hotenkh;
+        }
+
+        getCmnd() {
+            return this.cmnd;
+        }
+
+        getNgayms() {
+            return this.ngayms;
+        }
+
+        getSotiengui() {
+            return this.sotiengui;
+        }
+
+        setLoaitk(loaitk) {
+            this.loaitk = loaitk;
+        }
+
+        setHotenkh(hotenkh) {
+            this.hotenkh = hotenkh;
+        }
+
+        setCmnd(cmnd) {
+            this.cmnd = cmnd;
+        }
+
+        setNgayms(ngayms) {
+            this.ngayms = ngayms;
+        }
+
+        setSotiengui(sotiengui) {
+            this.sotiengui = sotiengui;
+        }
+
+        setLoaitk(loaitk) {
+            this.loaitk = loaitk;
+        }
+
+    }
+
+    let arr = new sotietkiem(1, "tiết kiệm điệm", 123, 12 / 12 / 2023, 100);
+
+    function showSotietkiem() {
+        let sout = '<table border="1">\n' +
+            '    <tr>\n' +
+            '        <td>Mã sổ</td>\n' +
+            '        <td>Loại tiết kiệm</td>\n' +
+            '        <td>Họ tên khách hàng</td>\n' +
+            '        <td>Chứng minh nhân dân</td>\n' +
+            '        <td>Ngày mở sổ</td>\n' +
+            '        <td>Số tiền gửi</td>\n' +
+            '        <td>Add</td>\n' +
+            '        <td>Delete</td>\n' +
+            '    </tr>'
+        for (let i = 0; i < arr.length; i++) {
+            sout += '<td>' + arr[i].getId() + '</td>\n' +
+                '    <td>' + arr[i].getLoaitk() + '</td>\n' +
+                '    <td>' + arr[i].getHotenkh() + '</td>\n' +
+                '    <td>' + arr[i].getCmnd() + '</td>\n' +
+                '    <td>' + arr[i].getNgayms() + '</td>\n' +
+                '    <td>' + arr[i].getSotiengui() + '</td>\n' +
+                '    <td>\n' +
+                '        <button type="button" onclick="Add()">ADD</button>\n' +
+                '    </td>\n' +
+                '    <td>\n' +
+                '        <button type="button" onclick="Delete()">DELETE</button>\n' +
+                '    </td>'
+        }
+            sout += '</table>';
+            document.getElementById("show").innerHTML = sout;
+    }
+    showSotietkiem();
+
+
+
+</script>
+</body>
+</html>

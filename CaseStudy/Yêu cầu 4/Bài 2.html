@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 2</title>
+</head>
+<body>
+<script>
+    let s = "cabcaquqwerq";
+    s = s.split("").sort();
+
+    function differentSymbolsNaive(s) {
+        let cnt = 0;
+        for (let i = 0; i < s.length; i++) {
+            if (s[i] != s[i + 1]) {
+                cnt++;
+            }
+        }
+        return cnt;
+    }
+
+    console.log(differentSymbolsNaive(s));
+
+</script>
+</body>
+</html>

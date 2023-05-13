@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 2</title>
+</head>
+<body>
+<script>
+    let aA = [7, 2, 5, 3, 5, 3];
+    let bB = [7, 2, 5, 4, 6, 3, 5, 3];
+    aA = aA.sort();
+    bB = bB.sort();
+
+    function changeValue() {
+        for (let i = 0; i < aA.length; i++) {
+            if (aA[i] === aA[i + 1]) {
+                aA.splice(i, 1);
+            }
+            for (let j = 0; j < bB.length; j++) {
+                if (bB[i] === bB[i + 1]) {
+                    bB.splice(i, 1);
+                }
+            }
+        }
+    }
+
+    function missingValue() {
+        changeValue();
+        let cnt = 0;
+        let result = [];
+        for (let i = 0; i < bB.length; i++) {
+            for (let j = 0; j < aA.length; j++) {
+                if (bB[i] !== aA[j]) {
+                    cnt++;
+                }
+                if (cnt === aA.length) {
+                    result.push(bB[i])
+                }
+            }
+            cnt = 0;
+        }
+        return result;
+    }
+
+    console.log(missingValue(aA, bB))
+
+
+</script>
+</body>
+</html>
