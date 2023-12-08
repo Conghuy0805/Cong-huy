@@ -6,15 +6,23 @@
 </head>
 <body>
 <script>
-    for (let i = 1; i <= 5; i++) {
-        for (let j = 1; j <= 5; j++) {
-            if (j == i || i == 5 || j == 1) {
-                document.write("*")
-            } else {
-                document.write("\xa0\xa0")
-            }
-        }
-        document.write("<br>")
+    let kitu = prompt("Nhập kí tự bất kì: ");
+    switch (kitu) {
+        case "u":
+        case "e":
+        case "o":
+        case "a":
+        case "i":
+        case "U":
+        case "E":
+        case "O":
+        case "A":
+        case "I":
+            alert(kitu + " là nguyên âm");
+            break;
+        default :
+            alert(kitu + " không phải nguyên âm");
+
     }
 </script>
 </body>
