@@ -64,3 +64,8 @@ from orders o
 join orderdetail od on o.o_id = od.o_id
 join product p on od.p_id = p.p_id
 group by o.o_id;
+
+select customer.*, product.* from customer
+left join orders  on customer.c_id = orders.c_id
+left join orderdetail on orders.o_id = orderdetail.o_id
+left join product on orderdetail.p_id = product.p_id;
