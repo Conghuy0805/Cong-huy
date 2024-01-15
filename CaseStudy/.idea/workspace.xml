@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cefd4200-a7dd-4a30-89d0-41b2284cf057" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 2/Bài 0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 2/Bài 1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 2/Bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 4( tham khảo tự code lại)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 4/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 4/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 5/Bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 6/Bài 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yêu cầu 6/Bài 1/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 1/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 1/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 1/Bài 2.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 1/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 1/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 1/Bài 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 1/Bài 4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 2/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 2/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 2/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 2/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 3/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 3/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 3/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 3/Bài 4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 4/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 4/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 4/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 4/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 4/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 4/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 5/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 5/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yêu cầu 5/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 5/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym/module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym/module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym2/module 1/ss14_ham/bai_tap/Hàm kiểm tra số nguyên tố.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym2/module 1/ss14_ham/bai_tap/Hàm kiểm tra số nguyên tố.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym2/module 1/ss14_ham/bai_tap/luyen_tap_su_dung_ham_2/Bài 7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym2/module 1/ss14_ham/bai_tap/luyen_tap_su_dung_ham_2/Bài 7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym2/module 1/ss16_oop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym2/module 1/ss16_oop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Yêu cầu 3/Bài 4( tham khảo tự code lại)/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/.idea/Workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/.idea/form.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/form_don_gian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/su_kien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/tao_table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/tinh_toan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/form/web_don_gian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/html/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thi/Câu 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../thi/Câu 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thi/Câu 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../thi/Câu 3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2QsJTXHkzdxrHUNjQeaWnFrqtww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Code Gym" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CaseStudy\Yêu cầu 1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cefd4200-a7dd-4a30-89d0-41b2284cf057" name="Changes" comment="" />
+      <created>1686136363520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686136363520</updated>
+      <workItem from="1686136364777" duration="650000" />
+      <workItem from="1686747221675" duration="5402000" />
+      <workItem from="1686830372608" duration="5110000" />
+      <workItem from="1686899445806" duration="1783000" />
+      <workItem from="1686924638832" duration="730000" />
+      <workItem from="1686930434418" duration="2599000" />
+      <workItem from="1686933079738" duration="1535000" />
+      <workItem from="1687091348688" duration="301000" />
+      <workItem from="1687353729572" duration="3959000" />
+      <workItem from="1687438433624" duration="4561000" />
+      <workItem from="1687521811462" duration="4660000" />
+      <workItem from="1687699790745" duration="919000" />
+      <workItem from="1687784675651" duration="5172000" />
+      <workItem from="1687794258863" duration="1844000" />
+      <workItem from="1687950206011" duration="7674000" />
+      <workItem from="1687960138880" duration="2321000" />
+      <workItem from="1688122473372" duration="6581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

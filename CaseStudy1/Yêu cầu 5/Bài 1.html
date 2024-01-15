@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 1</title>
+</head>
+<body>
+<script>
+    let m = +prompt("Nhập m: ");
+    let n = +prompt("Nhập n: ");
+    let arr = new Array(m);
+    for (let i = 0; i < arr.length; i++) {
+        arr[i] = new Array(n);
+        for (let j = 0; j < arr[i].length; j++) {
+            arr[i][j] = +prompt("Nhập giá trị cho mảng arr[" + i + "][" + j + "]")
+        }
+    }
+    let sum = 0;
+
+    function result() {
+        for (let i = 0; i < arr.length; i++) {
+            for (let j = 0; j < arr[i].length; j++) {
+                if (arr[i][j] % 2 == 0) {
+                    sum += arr[i][j];
+                }
+            }
+        }
+        return sum;
+    }
+
+    result();
+    alert("Tổng các số chẵn trong ma trận " + sum);
+</script>
+</body>
+</html>

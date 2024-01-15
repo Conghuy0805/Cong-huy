@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 3</title>
+</head>
+<body>
+<script>
+    let h = +prompt("Nhập chiều cao: ");
+    // vòng lặp for lớn: duyệt độ cao từ 1 dến h.
+    for (let i = 1; i <= h; i++) {
+        // vòng lặp for nhỏ: tương ứng với mỗi chiều cao i thì nó sẽ in dấu * tương ứng.
+        // vòng lặp luôn luôn duyệt từ 1 đến 2*h - 1
+        for (let j = 1; j <= 2 * h - 1; j++) {
+            if ((j >= h - i + 1) && (j <= h + i - 1)) {
+                document.write("*");
+            } else {
+                document.write("\xa0\xa0");
+            }
+        }
+        document.write("<br>")
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 3</title>
+</head>
+<body>
+<script>
+    let s1 = "aabcc";
+    let s2 = "adcaa"
+    s1 = s1.split('').sort();
+    s2 = s2.split('').sort();
+
+    function commonCharacterCount(s1, s2) {
+        let cnt = 0;
+        for (let i = 0; i < s1.length; i++) {
+            if (s1[i] === s2[i]) {
+                cnt++;
+            }
+        }
+        return cnt;
+    }
+
+    console.log(commonCharacterCount(s1, s2));
+</script>
+</body>
+</html>

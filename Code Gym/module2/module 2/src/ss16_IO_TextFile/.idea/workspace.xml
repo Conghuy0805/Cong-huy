@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbed7443-01dc-4a1f-bc19-7b4e4ea79427" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_Module2/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_Module2/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/data/AuthenticPhone.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/data/HandPhone.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/model/AuthenticPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/model/HandPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/repository/AuthenticPhoneRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuongTrinhQL_DT/repository/IAuthenticPhoneRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/controller/SanPhamContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/controller/SpnkContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/controller/SpxkContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/data/spnk.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/data/spxk.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/model/SanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/model/SanPhamNhapKhau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/model/SanPhamXuatKhau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/repository/IspnkRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/repository/IspxkRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/repository/SPNK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/repository/SPXK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/service/ISpnkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/service/ISpxkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/service/SpnkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/service/SpxkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/until/ReadFileSPNK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/until/ReadFileSPXK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/until/WriteFileSPNK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/until/WriteFileSPXK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/Exeption/NotFoundProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/controller/PhoneCHContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/controller/PhoneContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/controller/PhoneXTContro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/data/phoneCH.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/data/phoneXT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/model/PhoneChinhHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/model/PhoneXachTay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/repository/IPhoneRepoCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/repository/IPhoneRepoXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/repository/PhoneCHRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/repository/PhoneXTRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/service/IPhoneServiCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/service/IPhoneServiXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/service/PhoneServiCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/service/PhoneServiXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/until/ReadFileCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/until/ReadFileXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/until/WriteFileCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/until/WriteFileXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thi2/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_introduction_to_java/BaiTap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_loop_in_java/thuc_hanh/q.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/data/Employee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/data/Employee.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/repository/IEmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/repository/IEmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/service/IEmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/service/IEmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy_Module2/validation/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy_Module2/validation/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLiDienThoai/controller/PhoneManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLiDienThoai/controller/PhoneManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLiDienThoai/data/PhoneManagement.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLiDienThoai/data/PhoneManagement.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLiDienThoai/service/IPhoneManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLiDienThoai/service/IPhoneManagementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLiDienThoai/service/PhoneManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLiDienThoai/service/PhoneManagementService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ZHu2lVQ6luvpKRO3DK9J2pW72G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Code Gym/module2/module 2/School",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbed7443-01dc-4a1f-bc19-7b4e4ea79427" name="Changes" comment="" />
+      <created>1702091120596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702091120596</updated>
+      <workItem from="1702091121595" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
