@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe336fab-4337-4546-a54f-5ed05dd3b3a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 1/Bài 2.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 1/Bài 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 1/Bài 4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 0.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 1.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 2/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4( tham khảo tự code lại)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4( tham khảo tự code lại)/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4( tham khảo tự code lại)/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4( tham khảo tự code lại)/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 3/Bài 4/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 4/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 5/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 6/Bài 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 6/Bài 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 6/Bài 1/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudy/Yêu cầu 6/Bài 1/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework/BaiTap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 2/module 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 2/module 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 2/src/ss1_introduction_in_java/bai_tap/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3_new/case_study/task_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3_new/case_study/task_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss14_ham/bai_tap/Hàm kiểm tra số nguyên tố.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss14_ham/bai_tap/Hàm kiểm tra số nguyên tố.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss14_ham/bai_tap/luyen_tap_su_dung_ham_2/Bài 7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss14_ham/bai_tap/luyen_tap_su_dung_ham_2/Bài 7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss16_oop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss16_oop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code Gym2/module 1/ss8_cau_truc_dieu_kien/bai_tap/luyen_tap_cau_truc_dieu_kien_2/Bai_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../School/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/Câu 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/Câu 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/Câu 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/Câu 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/Câu 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/Câu 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/Câu 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/Câu 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thi module 1/e.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thi module 1/e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Câu 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Câu 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Câu 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Câu 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Làm lại bài 1( thi ).html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Làm lại bài 1( thi ).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Làm lại bài 2 ( thi ).html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Làm lại bài 2 ( thi ).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Làm lại bài 3 ( thi )/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Làm lại bài 3 ( thi )/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thi/Làm lại bài 3 ( thi )/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thi/Làm lại bài 3 ( thi )/js.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2Zqa9Efe8iTKS657faA0OO2seop" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Code Gym/module2/de_tai_6 (1)/de_tai_6",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe336fab-4337-4546-a54f-5ed05dd3b3a5" name="Changes" comment="" />
+      <created>1703151910301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703151910301</updated>
+      <workItem from="1703151911305" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀI 1</title>
+</head>
+<body>
+<script>
+    let luong = prompt("Nhập lương: ");
+    let thue;
+    let luongrong = 0
+    if (luong == 15000000) {
+        thue = luong * 20 / 100;
+    } else if (luong > 7000000 && luong < 15000000) {
+        thue = luong * 10 / 100;
+    } else {
+        thue = luong * 5 / 100;
+    }
+    luongrong = luong - thue;
+    alert("Lương ròng của nhân viên là: " + luongrong);
+</script>
+</body>
+</html>
